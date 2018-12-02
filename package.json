@@ -4,6 +4,6 @@
   "main": "main.js",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "fast-levenshtein": "^2.0.6"
   }
 }
