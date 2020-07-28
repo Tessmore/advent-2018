@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "fast-levenshtein": "^2.0.6",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.19"
   }
 }
